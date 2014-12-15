@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eacute" format="1">
+  <advance width="338"/>
+  <unicode hex="00C9"/>
+  <outline>
+    <contour>
+      <point x="263" y="0" type="line" name="hr00"/>
+      <point x="273" y="78" type="line"/>
+      <point x="124" y="78" type="line"/>
+      <point x="141" y="198" type="line"/>
+      <point x="254" y="198" type="line"/>
+      <point x="264" y="271" type="line"/>
+      <point x="152" y="271" type="line"/>
+      <point x="167" y="376" type="line"/>
+      <point x="314" y="376" type="line"/>
+      <point x="326" y="454" type="line"/>
+      <point x="81" y="454" type="line"/>
+      <point x="17" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr00">
+      <hstem pos="0" width="78" />
+      <hstem pos="198" width="73" />
+      <hstem pos="376" width="78" />
+      <vstem pos="17" width="309" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>
